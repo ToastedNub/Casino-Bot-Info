@@ -22,7 +22,7 @@
 
 # Shop
 
- - Not yet implimented, but you will use the !Stop command, then choose something to buy
+ - Not yet implimented, but you will use the !Shop command, then choose something to buy
 
 # Other
 
