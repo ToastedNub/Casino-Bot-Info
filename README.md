@@ -7,22 +7,22 @@
 # Basic Commands
 
  - !balance
- - !BecomeGambler
+ - !becomegambler
 
 # Games
 
- - !Slots
- - !Jackpot
- - !Blackjack
- - !Roulette
- - !Craps
- - !HigherCard
- - !RedBlack
- - !ThreeCard
- - !CoinFlip
- - !Wheel
- - !Crash
- - !Lottery
+ - !slots
+ - !jackpot
+ - !blackjack
+ - !roulette
+ - !craps
+ - !highercard
+ - !redblack
+ - !threecard
+ - !coinflip
+ - !wheel
+ - !crash
+ - !lottery
 
 # Shop
 
