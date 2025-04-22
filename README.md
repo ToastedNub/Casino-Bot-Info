@@ -35,10 +35,12 @@
  - !war
  - !rps
  - !guessthenumber
+ - !shop
 
 # Shop
 
- - Not yet implimented, but you will use the !Shop command, then choose something to buy
+ - !shop
+ - RandomMeme
 
 # Other
 
