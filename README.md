@@ -14,6 +14,7 @@
  - !give (@Someone)
  - !beg
  - !shop
+ - !askformoney
 
 # Games
 
