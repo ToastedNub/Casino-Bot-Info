@@ -9,6 +9,11 @@
  - !balance
  - !becomegambler
  - !help
+ - !request
+ - !rob (UserID) or (@Someone)
+ - !give (@Someone)
+ - !beg
+ - !shop
 
 # Games
 
@@ -35,11 +40,6 @@
  - !war
  - !rps
  - !guessthenumber
- - !request
- - !rob (UserID) or (@Someone)
- - !give (@Someone)
- - !beg
- - !shop
 
 # Shop
 
