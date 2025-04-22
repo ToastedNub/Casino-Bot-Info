@@ -35,6 +35,7 @@
  - !war
  - !rps
  - !guessthenumber
+ - !request
  - !shop
 
 # Shop
