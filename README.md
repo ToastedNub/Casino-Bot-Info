@@ -1,5 +1,9 @@
 # [BOT INVITE](https://discord.com/oauth2/authorize?client_id=1363835222247866460&permissions=8&integration_type=0&scope=bot)
 
+# Daily Bonus
+
+ - $2500
+
 # Basic Commands
 
  - !balance
