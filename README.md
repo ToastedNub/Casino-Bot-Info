@@ -36,6 +36,9 @@
  - !rps
  - !guessthenumber
  - !request
+ - !rob (UserID) or (@Someone)
+ - !give (@Someone)
+ - !beg
  - !shop
 
 # Shop
