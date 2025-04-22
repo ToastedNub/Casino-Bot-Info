@@ -40,7 +40,8 @@
 # Shop
 
  - !shop
- - RandomMeme
+ - 1) RandomMeme
+ - 2) RandomSite
 
 # Other
 
