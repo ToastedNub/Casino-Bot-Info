@@ -8,6 +8,7 @@
 
  - !balance
  - !becomegambler
+ - !help
 
 # Games
 
@@ -23,6 +24,17 @@
  - !wheel
  - !crash
  - !lottery
+ - !russianroulette
+ - !poker
+ - !baccarat
+ - !sicbo
+ - !highlow
+ - !overunder
+ - !oddeven
+ - !whohan
+ - !war
+ - !rps
+ - !guessthenumber
 
 # Shop
 
