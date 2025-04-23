@@ -15,3 +15,19 @@
 # Hack Deflector
 
  - Used to deflect a hack from another player entirely. (Single Use)
+
+# Bronze
+
+ - Hourly money as a member benefit
+# Silver
+
+ - Hourly money as a member benefit
+# Gold
+
+ - Hourly money as a member benefit
+# Diamond
+
+ - Hourly money as a member benefit
+# Premium
+
+ - Hourly money as a member benefit
