@@ -3,6 +3,15 @@
 # Random Meme
 
  - Sends a random meme from an archive of 250gb+.
+# Random Video
+
+ - Sends a random vid from the meme archive.
+# Random Gif
+
+ - Sends a random gif from the meme archive.
+# Random Pic
+
+ - Sends a random pic from the meme archive.
 # Random Site
 
  - Sends a random site.
