@@ -1,22 +1,52 @@
 # [BOT INVITE](https://discord.com/oauth2/authorize?client_id=1363835222247866460&permissions=8&integration_type=0&scope=bot)
 
-# Daily Bonus
+# **Bonuses**
 
- - $2500
+ - $2500 Daily
+ - $2500 on Bankruptcy
 
 # Basic Commands
 
- - !balance
- - !becomegambler
- - !help
- - !request
- - !rob (UserID) or (@Someone)
- - !give (@Someone)
- - !beg
- - !shop
- - !askformoney
+# !becomegambler
 
-# Games
+ - Adds you to the Casino.
+# !balance
+
+ - Shows your current balance in hand.
+# !help
+
+ - Shows the list of commands.
+# !request
+
+ - Send a request to the developer.
+# !rob (UserID) or (@Someone)
+
+ - Rob someone for 1% - 25% of their pocket money.
+# !beg
+
+ - Beg for someone to give you money.
+# !shop
+
+ - Opens the shop.
+# !askformoney
+
+ - Send a request for money.
+# !donate (UserID)
+
+ - Donate money to another player.
+# !deposite
+
+ - Deposite money into your bank so you can't be robbed.
+# !withdraw
+
+ - Withdraw money from the bank so you can use it to gamble or buy things.
+# !hack (UserID) or (@Someone)
+
+ - Hack someone for 1% - 10% of their bank money.
+
+# **Games**
+
+ - The games will not have information on them, if you want to know how they work, google it.
 
  - !slots
  - !jackpot
@@ -42,17 +72,29 @@
  - !rps
  - !guessthenumber
 
-# Shop
+# **Shop**
 
- - !shop
- - 1 RandomMeme
- - 2 RandomSite
+# Random Meme
 
-# Other
+ - Sends a random meme from an archive of 250gb+.
+# Random Site
+
+ - Sends a random site.
+# Free Stuff
+
+ - Sends the Free Stuff link.
+# Hacking Device
+
+ - Used to hack other players so you can steal money from their bank. (Single Use)
+# Hack Deflector
+
+ - Used to deflect a hack from another player entirely. (Single Use)
+
+# **Other**
 
  - Message **goat124568** on discord to set up the bot in your server.
 
-# Slots Prizes
+# **Slots Prizes**
 
 # 3 Row
  - 💎💎💎 = $500,000
