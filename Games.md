@@ -21,7 +21,7 @@
  - !highlow
  - !overunder
  - !oddeven
- - !whohan
+ - !chohan
  - !war
  - !rps
  - !guessthenumber
