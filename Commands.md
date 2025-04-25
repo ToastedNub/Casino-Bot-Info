@@ -4,6 +4,9 @@
 # !balance
 
  - Shows your current balance in hand.
+# !bankbalance
+
+ - Shows your current balance in bank.
 # !help
 
  - Shows the list of commands.
@@ -31,6 +34,21 @@
 # !withdraw
 
  - Withdraw money from the bank so you can use it to gamble or buy things.
+# !invest
+
+ - Invest money, similar to bitcoin.
+# !takeinvest
+
+ - Take invested money out, similar to bitcoin.
+# !investbalance
+
+ - Shows how much is currently invested, similar to bitcoin.
 # !hack (UserID) or (@Someone)
 
  - Hack someone for 1% - 10% of their bank money.
+# !lb
+
+ - Shows the top 10 players
+# !request
+
+ - Sends a request to the bot creator (me)
