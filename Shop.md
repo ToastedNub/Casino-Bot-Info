@@ -15,6 +15,18 @@
 # Random Site
 
  - Sends a random site.
+# Random YouTube Video
+
+ - Sends a random YouTube video from a set list of channels.
+# AI Songs
+
+ - Sends a random AI Song.
+# AI Stories
+
+ - Sends a Random AI Story.
+# Ping Everyone
+
+ - Senda an "@everyone" message in whatever channel you buy this item in.
 # Free Stuff
 
  - Sends the Free Stuff link.
@@ -26,16 +38,16 @@
  - Used to deflect a hack from another player entirely. (Single Use)
 # Bronze
 
- - Hourly money as a member benefit
+ - Daily money as a member benefit
 # Silver
 
- - Hourly money as a member benefit
+ - Daily money as a member benefit
 # Gold
 
- - Hourly money as a member benefit
+ - Daily money as a member benefit
 # Diamond
 
- - Hourly money as a member benefit
+ - Daily money as a member benefit
 # Premium
 
- - Hourly money as a member benefit
+ - Daily money as a member benefit
