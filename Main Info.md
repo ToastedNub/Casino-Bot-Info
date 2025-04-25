@@ -1,4 +1,4 @@
-# [BOT INVITE](https://discord.com/oauth2/authorize?client_id=1363835222247866460&permissions=8&integration_type=0&scope=bot)
+# [BOT INVITE](https://discord.com/oauth2/authorize?client_id=1363835222247866460&permissions=2048&integration_type=0&scope=bot)
 
 # Main
  - [Bonuses](https://github.com/ToastedNub/Casino-Bot-Info/blob/main/Bonuses.md)
