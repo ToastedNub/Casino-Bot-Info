@@ -6,7 +6,3 @@
  - [Casino Games](https://github.com/ToastedNub/Casino-Bot-Info/blob/main/Games.md)
  - [Slots Guide](https://github.com/ToastedNub/Casino-Bot-Info/blob/main/Slots.md)
  - [Shop Items](https://github.com/ToastedNub/Casino-Bot-Info/blob/main/Shop.md)
-
-# **Other**
-
- - Message **goat124568** on discord to set up the bot in your server.
