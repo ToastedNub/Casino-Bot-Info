@@ -11,3 +11,7 @@
  - [Casino Games](https://github.com/ToastedNub/Casino-Bot-Info/blob/main/Games.md)
  - [Slots Guide](https://github.com/ToastedNub/Casino-Bot-Info/blob/main/Slots.md)
  - [Shop Items](https://github.com/ToastedNub/Casino-Bot-Info/blob/main/Shop.md)
+
+# Main Command
+
+ - The **!help** command will show you all of the commands and what they do.
