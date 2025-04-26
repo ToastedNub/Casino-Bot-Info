@@ -14,4 +14,4 @@
 
 # Main Command
 
- - The **!help** command will show you all of the commands and what they do.
+ - The **`!help`** command will show you all of the commands and what they do.
