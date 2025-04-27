@@ -18,9 +18,9 @@
 # Main Command
 
  - The **`!help`** command will show you all of the commands and what they do.
- - USE SLOWMODE OR YOU CAN GET THE BOT BANNED FROM YOUR SERVER! (too many requests can slow down the bot)
- - Slowmode 5 seconds at least recommended!
 
 # Extra Info
  - There are secrets hidden everywhere, they will never be mentioned in the info for the bot, you need to find them on your own!
  - If you gain too much in 1 day you can be reset by the bot for suspected cheating!
+ - USE SLOWMODE OR YOU CAN GET THE BOT BANNED FROM YOUR SERVER! (too many requests can slow down the bot)
+ - Slowmode 5 seconds at least recommended!
