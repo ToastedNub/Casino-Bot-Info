@@ -1,4 +1,4 @@
 # **Bonuses**
 
- - $2500 Daily
- - $2500 on Bankruptcy
+ - $100 on Bankruptcy
+ - Daily money for having a member tier.
