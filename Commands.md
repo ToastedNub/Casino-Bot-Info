@@ -1,54 +1,38 @@
-# !becomegambler
+# Main Commands
 
- - Adds you to the Casino.
-# !balance
+ - Get Access.
+ - `!becomegambler` - Become a member so you can use the bot.
 
- - Shows your current balance in hand.
-# !bankbalance
+ - Requests and Ideas.
+ - `!request` - Send a request directly to the bot creator (me) this is for anything, shop/game ideas and other.
 
- - Shows your current balance in bank.
-# !help
+ - Other.
+ - `!lb` - Shows the current top 10 in the leaderboard for who has the most money.
+ - `!shop` - Opens the shop.
+ - `!darkweb` - Opens the black market shop.
+# Banking
 
- - Shows the list of commands.
-# !request
+ - Balances.
+ - `!balance` - Shows your pocket balance.
+ - `!bankbalance` - Shows your bank balance.
+ - `!investbalance` - Shows how much you have invested in crypto.
 
- - Send a request to the developer.
-# !rob (UserID) or (@Someone)
+ - Transfers.
+ - `!deposit` - Put money into your bank.
+ - `!withdraw` - Take money out of your bank.
+ - `!invest` - Invest money into crypto.
+ - `!takeinvest` - Take money out of investment.
 
- - Rob someone for 1% - 25% of their pocket money.
-# !beg
+ - Theft.
+ - `!rob` - Rob someone for their pocket money.
+ - `!hack` - Hack someone for their bank money.
 
- - Beg for someone to give you money.
-# !shop
+ - Other.
+ - `!askformoney` - Request money from the bank.
+ - `!beg` - Beg another user for money.
+ - `!give` - Give money to someone who is begging.
+ - `!donate` - Donate money to someone.
+# Admin Only
 
- - Opens the shop.
-# !askformoney
-
- - Send a request for money.
-# !donate (UserID)
-
- - Donate money to another player.
-# !deposite
-
- - Deposite money into your bank so you can't be robbed.
-# !withdraw
-
- - Withdraw money from the bank so you can use it to gamble or buy things.
-# !invest
-
- - Invest money, similar to bitcoin.
-# !takeinvest
-
- - Take invested money out, similar to bitcoin.
-# !investbalance
-
- - Shows how much is currently invested, similar to bitcoin.
-# !hack (UserID) or (@Someone)
-
- - Hack someone for 1% - 10% of their bank money.
-# !lb
-
- - Shows the top 10 players
-# !request
-
- - Sends a request to the bot creator (me)
+ - `!adminsend` - Give money to a user.
+ - `!admintake` - Take money from a user.
