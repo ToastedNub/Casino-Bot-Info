@@ -34,4 +34,4 @@
 
 # How to get someones UserID
 
- - You need to have [developer mode](https://youtu.be/EbKj4UB0T-8) enabled on discord, then right click a user and you should see `Copy User ID`
+ - You need to have [developer mode](https://youtu.be/8FNYLcjBERM) enabled on discord, then right click a user and you should see `Copy User ID`
