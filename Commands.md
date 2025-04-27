@@ -44,5 +44,6 @@
  - `!donate` - Donate money to someone.
 # Admin Only
 
+ - Admin.
  - `!adminsend` - Give money to a user.
  - `!admintake` - Take money from a user.
