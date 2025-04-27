@@ -1,27 +1,44 @@
-# **Games**
+# Singleplayer Games
 
- - The games will not have information on them, if you want to know how they work, google it.
+ - `!slots` - Slots.
+ - `!lottery` - Buy a lottery ticket for $10.
+ - `!baccarat` - Baccarat.
+ - `!war` - War.
+ - `!wheel` - Spin the lucky wheel.
+ - `!highlow` - Higher or Lower.
+ - `!oddeven` - Odd or Even.
+ - `!guessthenumber` - Guess The Number.
+ - `!threecard` - Three Card Monte.
+ - `!jackpot` - Chance to win the Jackpot for $1000.
+ - `!roulette` - Roulette.
+ - `!highercard` - Higher Card.
+ - `!russianroulette` - Russian Roulette doulbe your money or lose it all.
+ - `!poker` - Texas Hold'em Poker.
+ - `!crash` - Crash Game.
+ - `!chohan` - Cho Han.
+ - `!overunder` - Over or Under.
+ - `!sicbo` - Sic Bo.
+ - `!rps` - Rock Paper Scisors.
+ - `!coinflip` - Coin Flip.
+ - `!redblack` - Red or Black.
+ - `!blackjack` - Blackjack.
+ - `!craps` - Craps.
+# Multiplayer Games
 
- - !slots
- - !jackpot
- - !blackjack
- - !roulette
- - !craps
- - !highercard
- - !redblack
- - !threecard
- - !coinflip
- - !wheel
- - !crash
- - !lottery
- - !russianroulette
- - !poker
- - !baccarat
- - !sicbo
- - !highlow
- - !overunder
- - !oddeven
- - !chohan
- - !war
- - !rps
- - !guessthenumber
+ - `!multiblackjack` - Multiplayer Blackjack.
+ - `!multithreecard` - Multiplayer Three Card Monte.
+ - `!multioverunder` - Multiplayer Over or Under.
+ - `!multipoker` - Multiplayer Texas Hold'em Poker.
+ - `!multihighlow` - Multiplayer Higher or Lower.
+ - `!multiroulette` - Multiplayer Roulette.
+ - `!multicraps` - Multiplayer Craps.
+ - `!multiguessthenumber` - Multiplayer Guess The Number.
+ - `!multibaccarat` - Multiplayer Baccarat.
+ - `!multichohan` - Multiplayer Cho Han.
+ - `!multiwar` - Multiplayer War.
+ - `!multiredblack` - Multiplayer Red or Black.
+ - `!multioddeven` - Multiplayer Odd or Even.
+ - `!multirussianroulette` - Multiplayer Russian Roulette.
+ - `!multihighercard` - Multiplayer Higher Card.
+ - `!multicoinflip` - Multiplayer Coin Flip.
+ - `!multisicbo` - Multiplayer Sic Bo.
