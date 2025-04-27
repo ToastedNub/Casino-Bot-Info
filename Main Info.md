@@ -13,6 +13,7 @@
  - [Casino Games](https://github.com/ToastedNub/Casino-Bot-Info/blob/main/Games.md)
  - [Slots Guide](https://github.com/ToastedNub/Casino-Bot-Info/blob/main/Slots.md)
  - [Shop Items](https://github.com/ToastedNub/Casino-Bot-Info/blob/main/Shop.md)
+ - [How To Play](https://github.com/ToastedNub/Casino-Bot-Info/blob/main/How%20To%20Play.md)
 
 # Main Command
 
