@@ -1,3 +1,5 @@
+# THE OTHER PAGES HERE ARE NOT UP TO DATE, THEY WILL BE UPDATED SOON
+
 # ADMIN BOT INVITE
 
  - If you struggle with role management, use **[this invite](https://discord.com/oauth2/authorize?client_id=1363835222247866460&permissions=8&integration_type=0&scope=bot)**, this will give the bot **`admin`** permissions in your server.
